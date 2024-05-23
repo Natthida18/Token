@@ -1,0 +1,16 @@
+node_modules/
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+.DS_Store
+.vscode
+.dccache
+Thumbs.db
+.cache
+
+sql/
+local-xdebuginfo.php

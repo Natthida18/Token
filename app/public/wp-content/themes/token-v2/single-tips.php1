@@ -1,0 +1,88 @@
+<?php get_header(); ?>
+
+<div class="container">
+  <div class="breadcrumbs">
+    <div class="inner">
+      <?php if(function_exists('bcn_display'))
+		    {
+
+		        bcn_display();
+
+		    }?>
+    </div>
+    
+    <?php echo get_template_part('fb_share'); ?>
+    
+  </div>
+</div>
+
+
+<div class="page page-tips">
+<div class="container">
+<div class="row section">
+<div class="pagetitle">
+<h1>TIPS</span></h1>
+</div>
+</div>
+</div>
+
+
+<!-- **************** -->
+
+
+<?php
+
+	if (have_posts()) : while (have_posts()) : the_post(); 
+
+		$page_title   = get_the_title() ;
+
+		$ss_content  =  get_the_content(); 
+
+		$ss_picture = get_field('ss_picture');
+
+		if (is_array( $ss_picture )){
+		    $img_thum_url = $ss_picture['sizes']['large'];
+		    $img_url = $ss_picture['url'];
+		    $img_alt = $ss_picture['alt'];
+		}
+
+		$ss_machine = get_field('ss_machine');
+		$ss_work_place = get_field('ss_work_place');
+		$ss_date = get_field('ss_date');
+
+		$ss_comment = get_field('ss_comment');
+		$ss_pdf = get_field('ss_pdf');
+
+	    $pdf_url = $ss_pdf['url'];
+
+    endwhile;  endif;
+
+?>
+
+
+<div name="tips01" id="tips01"></div>
+<div class="tips_box">
+<h2 class="tips_stit"><?php echo $page_title  ;?></h2>
+
+<div class="tips_box_l">
+	<?php echo $ss_content  ;?>
+
+</div>
+
+<div class="tips_box_r">
+<div class="tips_img">
+<div class="tips_img_point"></div>
+<a href="<?php echo $img_url; ?>"><img src="<?php echo $img_thum_url; ?>" alt="" /></a>
+</div>
+<div class="tips_btn_dl"><a href="<?php echo $pdf_url; ?>">DOWNLOAD PDF</a></div>
+</div>
+<div class="clear"></div>
+	<div style="margin-top:40px"><a href="/tips/"><i class="fa fa-arrow-left" aria-hidden="true"></i> TIPS กลับไปที่รายการ</a></div>
+
+</div><!-- end tips_box -->
+
+
+<!-- **************** -->
+
+
+<?php get_footer(); ?>
