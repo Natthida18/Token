@@ -1,0 +1,1 @@
+[05-Jan-2019 14:53:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tokentha/public_html/wp-content/plugins/hello.php on line 60
