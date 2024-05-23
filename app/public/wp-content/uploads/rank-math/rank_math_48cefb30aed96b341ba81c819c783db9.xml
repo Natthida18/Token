@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//token.local/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://token.local/page-sitemap.xml</loc>
+		<lastmod>2024-05-23T11:10:16+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://token.local/recentworks-sitemap.xml</loc>
+		<lastmod>2024-05-09T07:04:42+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://token.local/tips-sitemap.xml</loc>
+		<lastmod>2024-02-12T11:25:08+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

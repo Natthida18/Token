@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[ไฟฟ้ากระแสสลับ]]></title>
+		<title2><![CDATA[AC (Alternating Current Electricity)]]></title2>
+		<content><![CDATA[หมายถึงกระแสที่มีทิศทางไปและกลับตลอดระยะเวลา มีการสลับขั้วบวกและลบกันอยู่ตลอดเวลา]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวแปลงกระแสไฟฟ้า (กระแสสลับเป็นกระแสตรง)]]></title>
+		<title2><![CDATA[AC DC converter]]></title2>
+		<content><![CDATA[เพื่อแปลงรูปคลื่นกระแสสลับเปลี่ยนจากขนาดเฉพาะและความถี่เฉพาะเป้นรูปคลื่นกระแสสลับที่มีขนาดและความถี่แตกต่างกัน]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รอบเครื่องยนต์]]></title>
+		<title2><![CDATA[Accelerator]]></title2>
+		<content><![CDATA[เวลาใช้งานรถกระเช้าต้องใช้เครื่องยนต์ การเร่งเครื่องยนต์เพือให้ความเร็วรอบสูง]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รถกระเช้า (รถลิฟท์กระเช้า)]]></title>
+		<title2><![CDATA[Aerial Work Platform]]></title2>
+		<content><![CDATA[กระเช้าทำงานที่สูง รถกระเช้าทั่วไป,บูมลิฟท,กรรไกร,Sky Master,Spider Lift,Man Lift ]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รถกระเช้า]]></title>
+		<title2><![CDATA[Aerial Work Platform (Truck Mounted)]]></title2>
+		<content><![CDATA[รถบรรทุกที่ประกอบตัวกระเช้าด้านบน สามารถวิ่งบนถนนได้]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[เครื่องกำเนิดไฟฟ้ากระแสสลับ]]></title>
+		<title2><![CDATA[Alternator]]></title2>
+		<content><![CDATA[คือเครื่องที่แปลงพลังงานกลเป็นพลังงานไฟฟ้า]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[หน่วยของกระแสไฟฟ้า]]></title>
+		<title2><![CDATA[Ampere (A)]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[เป็นรถกระเช้าแบบแขนพับที่สามารถเคลื่อนที่ได้ด้วยตนเอง]]></title>
+		<title2><![CDATA[Articulating Boom]]></title2>
+		<content><![CDATA[โมเดลรุ่น Z ทั้งหมด(Genie)]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ชุด]]></title>
+		<title2><![CDATA[Assy]]></title2>
+		<content><![CDATA[อุปกรณ์หรือสินค้าที่ขายเป็นชุด]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[มอเตอร์สำรอง]]></title>
+		<title2><![CDATA[Auxiary Motor]]></title2>
+		<content><![CDATA[ใช้กรณีฉุกเฉิน สำหรับเก็บขาช้าง เก็บบูมเวลามอเตอร์หลักมีปัญหา]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวกระเช้า]]></title>
+		<title2><![CDATA[Basket]]></title2>
+		<content><![CDATA[ตัวกระเช้าอยู่ข้างบน สำหรับให้คนขึ้นไปทำงานที่สูง]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวแสดงระดับแบตเตอรี่]]></title>
+		<title2><![CDATA[BCI (Battery Charger Indicator)]]></title2>
+		<content><![CDATA[รถกระเช้าไฟฟ้าจะมีไฟโชว์แสดงว่าแบตเตอรี่เหลือเท่าไหร่]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[น๊อต]]></title>
+		<title2><![CDATA[Bolt]]></title2>
+		<content><![CDATA[ใช้สำหรับขัน ยึด อุปกรณ์]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[บูม]]></title>
+		<title2><![CDATA[Boom]]></title2>
+		<content><![CDATA[บูมที่ยกขึ้นหรือหดได้]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[อุปกรณ์ตรวจสอบองศาของบูม]]></title>
+		<title2><![CDATA[Boom Angle Sensor]]></title2>
+		<content><![CDATA[รถกระเช้าจะมีเซนเซอร์เพื่อคิดองศาของบูมเวลาทำงาน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ยกบูมขึ้น]]></title>
+		<title2><![CDATA[Boom Elevation]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[อุปกรณ์ตรวจสอความยาวของบูม]]></title>
+		<title2><![CDATA[Boom Length Sensor]]></title2>
+		<content><![CDATA[รถกระเช้ามีระบบเซฟตี้วัดเมื่อเวลายืดบูมหดบูม]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[บูมลิฟท์]]></title>
+		<title2><![CDATA[Boom Lift]]></title2>
+		<content><![CDATA[รถกระเช้าที่เหมาะสำหรับการทำงานที่มีระยะเอื้อม สามารถขับเคลื่อนได้ด้วยตัวเอง]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[การหมุนของบูม]]></title>
+		<title2><![CDATA[Boom Rotation]]></title2>
+		<content><![CDATA[บูมสามารถหมุนได้ 360องศา]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รถกระเช้าแขนบูมตรง]]></title>
+		<title2><![CDATA[Boom Telescopic]]></title2>
+		<content><![CDATA[รถกระเช้าที่สามารถยืดบูมตรงได้อย่างเดียว แต่ถ้ามีสิ่งของขสางอยู่ไม่สามารถทำงานได้]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[โลหะฉาก]]></title>
+		<title2><![CDATA[Bracket]]></title2>
+		<content><![CDATA[สำหรับติดตั้งเพื่อรับรองผยุงหรือค้ำยัน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[มอเตอร์ แปรงถ่าน]]></title>
+		<title2><![CDATA[Brush Motor]]></title2>
+		<content><![CDATA[ถ้าไม่มีแปรงถ่านมอเตอร์จะไม่ทำงาน และถ้าตัวทุ่นไม่เท่ากันแปรงถ่านก็จะไม่ทำงาน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[การสอบเทียบเครื่องมือวัด]]></title>
+		<title2><![CDATA[Calibrate]]></title2>
+		<content><![CDATA[การวัดค่าเครื่องมือที่ใช้งานให้มีมาตรฐาน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[วาล์วกันย้อนกลับ]]></title>
+		<title2><![CDATA[Check Valve]]></title2>
+		<content><![CDATA[คืออุปกรณ์ในระบบการไหล ทำหน้าที่ควบคุมให้น้ำไหลไปในทิศทางเดียว ป้องกันไม่ให้น้ำมันไหลย้อนกลับเมื่อปั๊มน้ำหยุดทำงาน ใช้ติดตั้งคู่กับปั๊มน้ำ เพื่อป้องกันไม่ให้น้ำไหลย้อนกลับเข้าตัวปั๊มเมื่อไม่มีการเปิดใช้น้ำ ]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวเชื่อม]]></title>
+		<title2><![CDATA[Connector]]></title2>
+		<content><![CDATA[เป็นลักษณะตัวเชื่อมต่อระหว่างสายตัวผู้กับตัวเมีย ปลั๊กตัวผู้มาเสียบต่อ โดยจำนวนรูเท่ากับขาของปลั๊กตัวคู่กัน]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[คอนแท็คขับเคลื่อน]]></title>
+		<title2><![CDATA[Contactor Drive]]></title2>
+		<content><![CDATA[ตัวควบคุมมอเตอร์ ไดรฟ์ ให้ขยับ เลี้ยวได้]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[วาล์วป้องกันลิฟท์ไหล]]></title>
+		<title2><![CDATA[Counter Balance Valve]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[CPU Board]]></title>
+		<title2><![CDATA[CPU Board]]></title2>
+		<content><![CDATA[เมนบอร์ด]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[อุปกรณ์ปรับความเร็ว]]></title>
+		<title2><![CDATA[Creep Switch]]></title2>
+		<content><![CDATA[ตัวปรับความเร็วแขนบูม]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กระบอกไฮดรอลิค]]></title>
+		<title2><![CDATA[Cylinder]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กระแสตรง]]></title>
+		<title2><![CDATA[DC (Direct Current)]]></title2>
+		<content><![CDATA[ที่ไฟฟ้าจะไหลไปในทิศทางเดียวและไม่ไหลกลับ เช่น ไฟฟ้าที่ได้จากถ่านไฟฉาย แบตเตอรี่ของรถยนต์ เป็นต้น]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[การกำหนด (ตัวสติกเกอร์)]]></title>
+		<title2><![CDATA[Decale]]></title2>
+		<content><![CDATA[การกำหนดทิศทางของโปรแกรมหรือคำสั่ง]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[เส้นผ่าศูนย์กลาง]]></title>
+		<title2><![CDATA[Diameter]]></title2>
+		<content><![CDATA[เส้นผ่าศูนย์กลางของเฟืองล้อ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[หลอดอิเล็กตรอน (ไดโอด)]]></title>
+		<title2><![CDATA[Diode]]></title2>
+		<content><![CDATA[อุปกรณ์ทางอิเล็กทรอนิกส์ซึ่งมีขั้วไฟฟ้า 2 ขั้นยอมให้กระแสไหลผ่านได้ทางเดียวใช้เป็นเครื่องแปลงไฟฟ้ากระแสสลับให้เป็นไฟฟ้ากระแสตรง โดยมีหลายชนิด]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[การวาดภาพ]]></title>
+		<title2><![CDATA[Drawing]]></title2>
+		<content><![CDATA[การเขียนแบบ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Drive Motor]]></title>
+		<title2><![CDATA[Drive Motor]]></title2>
+		<content><![CDATA[มอเตอร์ในการขับเคลื่อนให้รถเดินหน้าถอยหลัง]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สายไฟ]]></title>
+		<title2><![CDATA[Electric Cable]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[วงจรไฟฟ้า]]></title>
+		<title2><![CDATA[Electric Circuit]]></title2>
+		<content><![CDATA[วงจรไฟฟ้า, ตัวนำไฟฟ้าหรือระบบของตัวนำไฟฟ้า  ซึ่งนำมาต่อกันเพื่อให้กระแสไฟฟ้าผ่านได้ ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ไส้กรอง]]></title>
+		<title2><![CDATA[Element]]></title2>
+		<content><![CDATA[กรองฟิวส์เตอร์]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ปั้มฉุกเฉิน]]></title>
+		<title2><![CDATA[Emergency Pump]]></title2>
+		<content><![CDATA[มอเตอร์สำรองที่ใช้สำหรับเก็บบูม]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สวิทซ์ฉุกเฉิน]]></title>
+		<title2><![CDATA[Emergenecy Switch]]></title2>
+		<content><![CDATA[หากมีเหตุฉุกเฉิน ให้ปิดสวิทซ์ทันที (สวิทซ์หัวสีแดง)]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[น้ำมันเครื่อง]]></title>
+		<title2><![CDATA[Engine Oil 15W40]]></title2>
+		<content><![CDATA[ใช้กับรถกระเช้ากับบูมที่เป็นรุ่นเครื่องยนต์ดีเซลเท่านั้น]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[บูมชุดยืด]]></title>
+		<title2><![CDATA[Extend boom]]></title2>
+		<content><![CDATA[ยืดบูม]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวกรอง]]></title>
+		<title2><![CDATA[Filter]]></title2>
+		<content><![CDATA[ไส้กรอง]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ฟิตติ้ง]]></title>
+		<title2><![CDATA[Fitting]]></title2>
+		<content><![CDATA[ข้อต่อสายไฮโดรลิค]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Foot]]></title>
+		<title2><![CDATA[Foot]]></title2>
+		<content><![CDATA[1ฟุต = 30.48ซม. เป็นที่นิยทสำหรับคนอเมริกา]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ฟุตสวิทย์]]></title>
+		<title2><![CDATA[Foot Switch]]></title2>
+		<content><![CDATA[รถกระเช้ามีระบบเซฟตี้ เวลาใช้งานบังคับให้เหยียบที่ตัวบังคับFoot switch]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Form Tire]]></title>
+		<title2><![CDATA[Form Tire]]></title2>
+		<content><![CDATA[บูมลิฟท์มักจะใช้ยางโฟม ยูรีเทน อัดเข้าไปไม่ให้ยางแบน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กรองน้ำมันเบนซิน]]></title>
+		<title2><![CDATA[Fuel Filter]]></title2>
+		<content><![CDATA[กรองน้ำมัน ดักจับเศษผงไม่ให้เข้าตัวเครื่อง]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ปั้มAC]]></title>
+		<title2><![CDATA[Fuel Pump (AC Pump)]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[มอเตอร์ฟังก์ชั่น]]></title>
+		<title2><![CDATA[Function Motor]]></title2>
+		<content><![CDATA[ตัวปั่นปั้มน้ำมันไฮโดรลิคฟังก์ชั่น]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ฟิวส์]]></title>
+		<title2><![CDATA[Fuse]]></title2>
+		<content><![CDATA[อุปกรณ์ไฟฟ้าชนิดหนึ่งทำด้วยโลหะที่มีจุดหลอมเหลวต่ำ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กล่องคอนโทรลด้านล่าง]]></title>
+		<title2><![CDATA[G Con]]></title2>
+		<content><![CDATA[ตัวกรรไกรของจีนี่สามารถบังคับข้างบน,ข้างล่างได้ ข้างบนเรียก P Con ข้างล่างเรียก G Con]]></content>
+		<dictionarycategories><![CDATA[Scissors Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[วงแหวนอัดลูกสูบ]]></title>
+		<title2><![CDATA[Gasket]]></title2>
+		<content><![CDATA[วงแหวนสำหรับอัดข้อต่อในเครื่องจักร]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[น้ำมันเกียร์]]></title>
+		<title2><![CDATA[Gear Oil 80W90]]></title2>
+		<content><![CDATA[รถกระเช้าส่วนใหญ่ใช้น้ำมันเกียร์รุ่นนี้]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[จาระบี]]></title>
+		<title2><![CDATA[Grease]]></title2>
+		<content><![CDATA[ของเหลวที่ใช้หล่อลื่น]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กราวน์]]></title>
+		<title2><![CDATA[Ground Earth]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สายไฟ]]></title>
+		<title2><![CDATA[Harness]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รถเฮี๊ยบ]]></title>
+		<title2><![CDATA[Hiab Crane]]></title2>
+		<content><![CDATA[รถเฮี๊ยบที่ติดตั้งเครน]]></content>
+		<dictionarycategories><![CDATA[Truck Crane]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Highrider]]></title>
+		<title2><![CDATA[Highrider]]></title2>
+		<content><![CDATA[บางเจ้าเรียก Sky MasterหรือHigh Rider คือรถบรรทุกติดกระเช้าลักษณะคล้ายรถของการไฟฟ้า]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[มิเตอร์วัดชั่วโมงการทำงาน]]></title>
+		<title2><![CDATA[Hour Meter]]></title2>
+		<content><![CDATA[มิเตอร์วัดชั่วโมงการทำงานของลิฟท์]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สายไฮโดรลิค]]></title>
+		<title2><![CDATA[Hydralic Hose]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[น้ำมันไฮโดรลิค]]></title>
+		<title2><![CDATA[Hydraulic Oil 46]]></title2>
+		<content><![CDATA[น้ำมันไฮดรอลิคที่ใช้มาตรฐาน 46คือความเหนียว]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ปั้มไฮโดรลิค]]></title>
+		<title2><![CDATA[Hydraulic Pump]]></title2>
+		<content><![CDATA[ปั้มที่ติดกับมอเตอร์ฟังก์ชั่น]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[นิ้ว]]></title>
+		<title2><![CDATA[Inch]]></title2>
+		<content><![CDATA[2.54cm/Inch]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[indicator]]></title>
+		<title2><![CDATA[indicator]]></title2>
+		<content><![CDATA[ตัวแสดงไฟที่หน้าจอ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Interlock System]]></title>
+		<title2><![CDATA[Interlock System]]></title2>
+		<content><![CDATA[ระบบเซฟตี้ที่ป้องกันการชาร์จไปทำงานไป]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Jack Up]]></title>
+		<title2><![CDATA[Jack Up]]></title2>
+		<content><![CDATA[การตั้งขาหยั่ง]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[จิ๊บ]]></title>
+		<title2><![CDATA[Jib]]></title2>
+		<content><![CDATA[แขนท่อนที่ติดกับกระเช้าข้อดีคือสามารถเข้าทำงานที่แคบๆได้ บางรุ่นสามารถขึ้นลง ซ้ายขวาได้]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[JLG Hand Held Analyzer]]></title>
+		<title2><![CDATA[JLG Hand Held Analyzer]]></title2>
+		<content><![CDATA[เวลาบูมลิฟท์มีปัญหาสามารถเสียบสายเช็คได้ว่ามีปัญหาตรงจุดไหน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[จอยบังคับการทำงาน]]></title>
+		<title2><![CDATA[Joystick]]></title2>
+		<content><![CDATA[ที่บังคับการขับเคลื่อนกับเลี้ยว]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กิโลกรัม/ปอนด์]]></title>
+		<title2><![CDATA[Lbs (Pound)]]></title2>
+		<content><![CDATA[0.45kg/lbs]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กระบอกไฮดรอลิคตัวปรับบาลานซ์]]></title>
+		<title2><![CDATA[Leveling Cylinder]]></title2>
+		<content><![CDATA[การปรับตัวกระเช้าบูมลิฟท์ข้างบน,ข้างล่างมี2ตัว ให้กระเช้าบาลานซ์กัน]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ลิมิตสวิตช์]]></title>
+		<title2><![CDATA[Limit Switch]]></title2>
+		<content><![CDATA[ เป็นสวิตช์ที่จำกัดระยะการทำงาน ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ชุดควบคุมระบบไฮโดรลิค]]></title>
+		<title2><![CDATA[Manifold]]></title2>
+		<content><![CDATA[จะเป็นบล็อคจ่ายน้ำมันแต่ละฟังก์ชั่นไฮดรอลิค]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กล่องควบคุมมอเตอร์ขับเคลื่อน]]></title>
+		<title2><![CDATA[Motor Controller]]></title2>
+		<content><![CDATA[ควบคุมมอเตอร์ขับเคลื่อน เป็นเครื่องที่ปล่อยกราวน์,ปล่อยไฟ หน้าที่จะขับเคลื่อนมากกว่า]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ล้อไม่ทิ้งรอย]]></title>
+		<title2><![CDATA[Non-Marking Tire]]></title2>
+		<content><![CDATA[ล้อที่ไม่มีรอยเวลาวิ่ง จะมีแค่ฝุ่น]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Nut]]></title>
+		<title2><![CDATA[Nut]]></title2>
+		<content><![CDATA[คนส่วนใหญ่เรียกทั้งหมดว่าน๊อต แต่ที่จริงน๊อตคือแหวนกลมๆ จะมีน๊อตตัวผู้ตัวเมีย]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[โอริง]]></title>
+		<title2><![CDATA[O Ring]]></title2>
+		<content><![CDATA[วัสดุที่มีพื้นที่หน้าตัดเป็นรูปวงกลม และมีรูปทรงเป็นวงกลมด้วยเช่นกัน ผลิตมาจากวัสดุที่มีคุณสมบัติยีดยุ่นได้ ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ความต้านทานไฟฟ้า]]></title>
+		<title2><![CDATA[Ohm (Ω)]]></title2>
+		<content><![CDATA[หน่วยวัดความต้านทาน ความต้านทาน 1 โอห์ม คือ ความต้านทานระหว่างจุด 2 จุดบนตัวนำ ซึ่งเมื่อจุดคู่นี้มีความต่างศักย์ไฟฟ้า 1 โวลต์แล้ว จะทำให้มีกระแสไฟฟ้าไหลผ่านได้ 1 แอมแปร์]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ขาหยั่ง]]></title>
+		<title2><![CDATA[Outrigger]]></title2>
+		<content><![CDATA[ขาหยั่ง/ขาค้ำสำหรับลิฟท์กระเช้ารุ่น AWP GS-3232 Z-80 S-85 GS-5390]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[กล่องคอนโทรลด้านบน]]></title>
+		<title2><![CDATA[P Con]]></title2>
+		<content><![CDATA[ตัวกรรไกรของจีนี่สามารถบังคับข้างบน,ข้างล่างได้ ข้างบนเรียก P Con ข้างล่างเรียก G Con]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวกระเช้า]]></title>
+		<title2><![CDATA[Platform]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ความสูง]]></title>
+		<title2><![CDATA[Platform Height]]></title2>
+		<content><![CDATA[ความสูงจากพื้นดินถึงพื้นกระเช้า]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[เซ็นเซอร์ที่ชั่งน้ำหนัก]]></title>
+		<title2><![CDATA[Platform Load Sensor]]></title2>
+		<content><![CDATA[รถกระเช้าปกติรับน้ำหนักได้ 200-227 กก. ถ้าเกินจะไม่ให้ยกกระเช้า]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[หมุนกระเช้า]]></title>
+		<title2><![CDATA[Platform Rotation]]></title2>
+		<content><![CDATA[ควบคุมการสวิงกระเช้า]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Power Pack]]></title>
+		<title2><![CDATA[Power Pack]]></title2>
+		<content><![CDATA[เครื่องให้กำลังกระแสไฟฟ้า เช่น หม้อแบตเตอรี่ที่ใช้ในรถยนต์]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สวิทซ์แรงดัน]]></title>
+		<title2><![CDATA[Pressure Switch]]></title2>
+		<content><![CDATA[ทำหน้าที่เปิดระบบเบรค ]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Primary Boom]]></title>
+		<title2><![CDATA[Primary Boom]]></title2>
+		<content><![CDATA[แขนบูมท่อนที่ 1]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ระบบขับเคลื่อนเครื่องยนต์]]></title>
+		<title2><![CDATA[PTO (Power Take Off)]]></title2>
+		<content><![CDATA[ระบบในการแปลงแรงจากเครื่องยนต์ของรถบรรทุกเพื่อใช้กับวัตถุประสงค์อื่นนอกจากขับเคลื่อนรถ]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ปั้ม]]></title>
+		<title2><![CDATA[Pump]]></title2>
+		<content><![CDATA[ตัวปั่นน้ำมัน]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รีเลย์]]></title>
+		<title2><![CDATA[Relay]]></title2>
+		<content><![CDATA[หน้าสัมผัสไฟฟ้า]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[วาล์วระบายความดัน]]></title>
+		<title2><![CDATA[Relief Valve]]></title2>
+		<content><![CDATA[ตัวเช็ควาล์ระบบย้อนกลับ]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Retract boom]]></title>
+		<title2><![CDATA[Retract boom]]></title2>
+		<content><![CDATA[หดบูม]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[หมุน]]></title>
+		<title2><![CDATA[Rotation]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Rotator Platform]]></title>
+		<title2><![CDATA[Rotator Platform]]></title2>
+		<content><![CDATA[ระบบไฮดรอลิคที่สามารถหมุนกระเช้าได้ จะมี2อย่าง]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สวิงบูม]]></title>
+		<title2><![CDATA[Rotator Turntable]]></title2>
+		<content><![CDATA[ที่บูมหมุนได้360องศา ที่อยู่ด้านล่าง]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ลิฟท์กระเช้าแบบขากรรไกร]]></title>
+		<title2><![CDATA[Scissors Lift]]></title2>
+		<content><![CDATA[รถที่สามารถทำงานขึ้น-ลงอย่างเดียว]]></content>
+		<dictionarycategories><![CDATA[Scissors Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สกรู]]></title>
+		<title2><![CDATA[Screw]]></title2>
+		<content><![CDATA[สิ่งที่เป็นเกลียว, สลักเกลียว]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ซีล]]></title>
+		<title2><![CDATA[Seal]]></title2>
+		<content><![CDATA[ยางกันน้ำมันรั่ว]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Secondary Boom]]></title>
+		<title2><![CDATA[Secondary Boom]]></title2>
+		<content><![CDATA[แขนบูมท่อนที่2]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Skyboy]]></title>
+		<title2><![CDATA[Skyboy]]></title2>
+		<content><![CDATA[ผู้ผลิตเคนรถกระเช้าของญี่ปุ่น Tadano เรียกรุ่นรถว่า Skyboy]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Skymaster]]></title>
+		<title2><![CDATA[Skymaster]]></title2>
+		<content><![CDATA[ผู้ผลิตเคนรถกระเช้าของญี่ปุ่น Aichi เรียกรุ่นรถว่า Skymaster]]></content>
+		<dictionarycategories><![CDATA[Skymaster]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Smart Link]]></title>
+		<title2><![CDATA[Smart Link]]></title2>
+		<content><![CDATA[ชื่อระบบคอมพิวเตอร์ของตัวกรรไกร หน้าจอด้านล่าง]]></content>
+		<dictionarycategories><![CDATA[Scissors Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[เต้าเสียบ]]></title>
+		<title2><![CDATA[Socket]]></title2>
+		<content><![CDATA[ปลั๊กตัวเมีย, ช่องเสียบ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[โซลินอยด์วาล์ว]]></title>
+		<title2><![CDATA[Solenoid Valve]]></title2>
+		<content><![CDATA[อุปกรณ์สวิตช์ที่อาศัย หลักการทำงานของแม่เหล็กไฟฟ้าทำงานร่วมกับกลไกโดยใช้การป้อนไฟเป็นตัวกำหนด การทำงานควบคุมให้ลิ้นกลไกปิดหรือเปิดได้]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ล้อยาง]]></title>
+		<title2><![CDATA[Solid Tire]]></title2>
+		<content><![CDATA[ล้อยางตัน ส่วนใหญ่ใช้ในรถโฟล์คลิฟท์]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ที่กั้นระยะ]]></title>
+		<title2><![CDATA[Spacer]]></title2>
+		<content><![CDATA[ระยะหุ้มคอนกรีต]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Spider Crane]]></title>
+		<title2><![CDATA[Spider Crane]]></title2>
+		<content><![CDATA[รถเครนขนาดเล็กที่มีล้อตีนตะขาบใช้สำหรับยกของทำงานในพื้นที่แคบๆ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Spider Lift]]></title>
+		<title2><![CDATA[Spider Lift]]></title2>
+		<content><![CDATA[ใช้สำหรับงานที่มีพื้นที่รับน้ำหนักขนาดจำกัด กางขาเหมือนแมงมุม]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[โลหะที่เด้งได้]]></title>
+		<title2><![CDATA[Spring]]></title2>
+		<content><![CDATA[คือส่วนของโลหะทีม้วนรอบเป็นวงกลมเพื่อที่จะทำให้ยืดหยุ่นได้]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[เก็บ]]></title>
+		<title2><![CDATA[Storage]]></title2>
+		<content><![CDATA[เก็บบูม เก็บขาช้าง เก็บตัวกระเช้า]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ไฟแวป]]></title>
+		<title2><![CDATA[Strobe Beacon, Flashing Beacon]]></title2>
+		<content><![CDATA[สัญญาณไฟฉุกเฉิน]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Telescopic]]></title>
+		<title2><![CDATA[Telescopic]]></title2>
+		<content><![CDATA[บูมที่ยืดแบบตรง]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ตัวเช็คระดับลาดเอียง]]></title>
+		<title2><![CDATA[Tilt Sensor]]></title2>
+		<content><![CDATA[ที่วัดองศาของเครื่องจักร หากไม่อยู่ในพื้นที่ราบเรียบ รถจะไม่ทำงานในกรณีการยก]]></content>
+		<dictionarycategories><![CDATA[Boom & Scissors]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Toggle Switch]]></title>
+		<title2><![CDATA[Toggle Switch]]></title2>
+		<content><![CDATA[ทอกเกิลสวิตซ์ ]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[หลอด]]></title>
+		<title2><![CDATA[Tube]]></title2>
+		<content><![CDATA[หลอด เช่น ลำกล้อง ยางในรถยนต์]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[Up & Over]]></title>
+		<title2><![CDATA[Up & Over]]></title2>
+		<content><![CDATA[จิ๊บบูม ขึ้น-ลง]]></content>
+		<dictionarycategories><![CDATA[Boom Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[วาล์วเบรค]]></title>
+		<title2><![CDATA[Valve Brake]]></title2>
+		<content><![CDATA[วาวล์ของเบรคตัวปลดเบรค ถ้าตัววาล์วไม่เปิดน้ำมันก็จะไม่จ่ายทำให้เบรคไม่ได้]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[แรงดันไฟฟ้า]]></title>
+		<title2><![CDATA[Volt (V)]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[แหวน]]></title>
+		<title2><![CDATA[Washer]]></title2>
+		<content><![CDATA[เพื่อป้องกันไม่ให้น็อตหลุด]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สัญลักษณ์]]></title>
+		<title2><![CDATA[Watt (W)]]></title2>
+		<content><![CDATA[หน่วยวัดกำลังไฟฟ้า]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[สลิง]]></title>
+		<title2><![CDATA[Wire Rope]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ความสูงในการทำงาน]]></title>
+		<title2><![CDATA[Working Height]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[รัศมีการทำงาน]]></title>
+		<title2><![CDATA[Working Radius]]></title2>
+		<content><![CDATA[]]></content>
+		<dictionarycategories><![CDATA[General]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[ลิฟท์กระเช้าแบบขากรรไกร]]></title>
+		<title2><![CDATA[X Lift]]></title2>
+		<content><![CDATA[ชื่อรถยกในการทำงานที่สุง ลักษณะคล้ายกับกรรไกร]]></content>
+		<dictionarycategories><![CDATA[Scissors Lift]]></dictionarycategories>
+		<slug><![CDATA[]]></slug>
+	</node>
+</data>
