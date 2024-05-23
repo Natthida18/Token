@@ -1,0 +1,159 @@
+# Translation of Plugins - Lazy Loader - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Lazy Loader - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-31 11:10:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Lazy Loader - Stable (latest release)\n"
+
+#: src/Settings.php:292
+msgid "Instead of just modifying specific parts of the page (for example, the post content, post thumbnail), the complete generated markup is processed. With that, all images (and other media, if you enabled it) will be lazy loaded. Because the plugin needs to process more markup with that option enabled, it might slow down the page generation time a bit. If your page contains HTML errors, like unclosed tags, this might lead to unwanted behavior, because the DOM parser used by Lazy Loader tries to correct that."
+msgstr "Anstatt nur Teile des Markups der Seite (zum Beispiel den Beitragsinhalt und das Beitrags-Vorschaubild) zu verarbeiten wird das komplette Markup verarbeitet. Damit werden alle Bilder (und anderen Medien, wenn du die entsprechenden Optionen nutzt) mit Lazy Loading ausgestattet. Weil das Plugin mit der Option mehr Markup verarbeiten muss, könnte es die Ladezeit der Website etwas verlangsamen. Wenn deine Seite HTML-Fehler enthält, wie nicht geschlossene Tags, könnte das zu unerwartetem Verhalten führen, weil der DOM-Parser das zu korrigieren versucht."
+
+#: src/Settings.php:291
+msgid "Process the complete markup"
+msgstr "Das komplette Markup verarbeiten"
+
+#: src/Settings.php:178
+msgid "Enter one or more additional WordPress filters that should be processed (one per line). Anything that does not match the regular expression for PHP function names will be removed."
+msgstr "Einen oder mehrere WordPress-Filter angeben, die zusätzlich verarbeitet werden sollen (einen pro Zeile). Jede Eingabe, die nicht wie ein PHP-Funktionsname aussieht, wird nicht gespeichert."
+
+#: src/Settings.php:177
+msgid "Additional filters"
+msgstr "Zusätzliche Filter"
+
+#: src/Settings.php:168
+msgid "Enter one or more CSS classes to exclude them from lazy loading (separated by comma). This works only if the element that would get lazy loaded has the class, not on wrapper elements. To exclude an element and its children, use the <code>skip-lazy</code> class or the <code>data-skip-lazy</code> attribute."
+msgstr "Hier kannst du eine oder mehrere CSS-Klassen eintragen, die vom Lazy Loading ausgeschlossen werden sollen (mehrere mit Komma trennen). Das funktioniert nur, wenn beispielsweise das Bild diese Klasse hat, nicht bei Elementen, die das Bild umschließen. Um ein Element und die Kindelemente auszuschließen, kannst du die Klasse <code>skip-lazy</code> oder das <code>data-skip-lazy</code>-Attribut verwenden."
+
+#: src/Settings.php:282
+msgid "Displays a checkbox in the publish area of all post types (pages/posts/CPTs) that lets you disable the plugin on that specific post. To make it work for CPTs, they must support <code>custom-fields</code>."
+msgstr "Zeigt eine Checkbox in dem Veröffentlichen-Bereich aller Inhaltstypen (Seiten/Beiträge/CPTs) an, womit du das Plugin für diesen speziellen Inhalt deaktivieren kannst. Damit es für CPTs funktioniert, müssen sie <code>custom-fields</code> unterstützen."
+
+#: src/Settings.php:217
+msgid ""
+"This feature needs the unveilhooks plugin and will automatically load it, regardless of the option to load the unveilhooks plugin is enabled or not. \n"
+"\t\t\t\t<strong>It is possible that this setting causes issues, because:</strong> To also support multiple background images and to provide a \n"
+"\t\t\t\tfallback for disabled JavaScript, the plugin removes the background rules from the element and adds a style element instead.\n"
+"\t\t\t\tThe CSS selector is <code>.unique-class.lazyloaded</code> for the JS case, respective <code>.unique-class.lazyload</code> for the case that JS is disabled.\n"
+"\t\t\t\tIf you have CSS background rules with a higher specifity that match the element, they will overwrite the rules\n"
+"\t\t\t\tthat were extracted by Lazy Loader."
+msgstr "Diese Funktion benötigt das Unveilhooks-Plugin und wird es automatisch laden, auch wenn die Option zum Laden des Plugins nicht aktiv ist. <strong>Es ist möglich, dass diese Einstellung Probleme verursacht, weil:</strong> Um auch mehrere Hintergrundbilder zu unterstützen und einen Fallback für deaktiviertes JavaScript zu liefern, entfernt das Plugin die <code>background</code>-Regeln aus den Inline-Styles des Elements und fügt sie in einem <code>style</code>-Element ein. Der CSS-Selektor ist für den Fall von aktivem JavaScript <code>.unique-class.lazyloaded</code> beziehungsweise <code>.unique-class.lazyload</code> für den Fall, dass JavaScript nicht aktiv ist. Wenn du CSS-<code>background</code>-Regeln mit einer höheren Spezifität hast, die das Element betreffen, werden sie die von Lazy Loader extrahierten Regeln überschreiben."
+
+#: src/Settings.php:216
+msgid "Enable lazy loading for inline background images"
+msgstr "Lazy Loading für Inline-Hintergrundbilder aktivieren"
+
+#. translators: s=code example.
+#: src/Settings.php:303
+msgid "Here you can add custom values for the config settings of the <a href=\"https://github.com/aFarkas/lazysizes/#js-api---options\">lazysizes script</a>. An example could look like this, modifying the value for the expand option:%s"
+msgstr "Hier kannst du eigene Werte für die Konfiguration des <a href=\"https://github.com/aFarkas/lazysizes/#js-api---options\">lazysizes-Skripts</a> festlegen. Ein Beispiel könnte so aussehen, womit die expand-Option verändert wird:%s"
+
+#: src/Settings.php:197
+msgid "The plugin transforms images and iframes to use native lazyloading in browsers that support it."
+msgstr "Das Plugin wandelt Bilder und iFrames in unterstütztenden Browsern um, sodass sie natives Lazy Loading verwenden."
+
+#: src/Settings.php:196
+msgid "Include lazysizes native loading plugin"
+msgstr "native-loading-Plugin von lazysizes einfügen"
+
+#: src/Settings.php:301
+msgid "Modify the default config"
+msgstr "Standard-Konfiguration verändern"
+
+#: src/Settings.php:604
+msgid "Disable Lazy Loader"
+msgstr "Lazy Loader deaktivieren"
+
+#: src/Settings.php:571
+msgid "If the Lazy Loader plugin should be disabled for this page/post/CPT entry"
+msgstr "Ob das Lazy-Loader-Plugin für diese(n) Seite/Beitrag/CPT-Eintrag deaktiviert werden soll."
+
+#: src/Settings.php:281
+msgid "Enable option to disable plugin per page/post"
+msgstr "Option zum granularen Deaktivieren des Plugins aktivieren."
+
+#: src/Settings.php:262
+msgid "To give the users a hint that there is something loading where they just see empty space. Works best with the aspectratio option. <a href=\"https://caniuse.com/#feat=svg-smil\">Limited browser support.</a>"
+msgstr "Um den Nutzern einen Hinweis zu geben, dass etwas lädt wo sie bisher noch nichts sehen. Funktioniert am besten mit der Aspectratio-Option. <a href=\"https://caniuse.com/#feat=svg-smil\">Eingeschränkte Browser-Unterstützung.</a>"
+
+#: src/Settings.php:252
+msgid "The plugin helps to avoid content jumping when images are loaded and makes lazy loading work with masonry grids. Works only if width and height attribute are set for the img element. <a href=\"https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/aspectratio\">More info on the plugin page</a>."
+msgstr "Das Plugin hilft dabei springend Inhalt zu vermeiden, wenn Bilder laden und bringt nachgelagertes laden (lazy loading) mit masongry grids zum Laufen. Funktioniert nur, wenn Breite und Höhe auf dem Bild-Element gesetzt sind. <a href=\"https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/aspectratio\">Mehr Informationen auf der Plugin-Seite</a>."
+
+#: src/Settings.php:272
+msgid "Spinner color in hex format. Default: #333333"
+msgstr "Farbe des Ladekreises im HEX-Format. Standard: #333333"
+
+#: src/Settings.php:271
+msgid "Color of the spinner"
+msgstr "Farbe des Ladekreises"
+
+#: src/Settings.php:261
+msgid "Display a loading spinner"
+msgstr "Ladekreis anzeigen"
+
+#: src/Settings.php:251
+msgid "Include lazysizes aspectratio plugin"
+msgstr "aspectratio-Plugin von lazysizes einfügen"
+
+#: src/Settings.php:206
+msgid "Include lazysizes unveilhooks plugin"
+msgstr "unveilhooks-Plugin von lazysizes einfügen"
+
+#: src/Settings.php:232 src/Settings.php:242
+msgid "This feature needs the unveilhooks plugin and will automatically load it, regardless of the option to load the unveilhooks plugin is enabled or not."
+msgstr "Diese Funktion braucht das unveilhooks-Plugin und wird sie automatisch laden, auch wenn die Option zum Laden des unveilhooks-Plugins selbst nicht aktiv ist."
+
+#. Description of the plugin
+msgid "Lazy loading plugin that supports images, iFrames, video and audio elements and uses lazysizes.js. With manual modification of the markup it is also possible to lazy load background images, scripts, and styles."
+msgstr "Lazy-Loading-Plugin, das Bilder, iFrames, video- und audio-Elemente unterstützt und lazysizes.js nutzt. Mit manuellen Anpassungen des Markups können auch Hintergrundbilder, Skripte und Stylesheets nachgeladen werden."
+
+#. Plugin Name of the plugin
+msgid "Lazy Loader"
+msgstr "Lazy Loader"
+
+#: src/Settings.php:241
+msgid "Enable lazy loading for audios"
+msgstr "Lazy-Loading für audio-Elemente aktivieren"
+
+#: src/Settings.php:231
+msgid "Enable lazy loading for videos"
+msgstr "Lazy-Loading für video-Elemente aktivieren"
+
+#: src/Settings.php:207
+msgid "The plugin adds support for lazy loading of background images, scripts, styles, and videos. To use it with background images, scripts and styles, you will need to <a href=\"https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/unveilhooks\">manually modify the markup</a>."
+msgstr "Die Erweiterung fügt Unterstützung für das Lazy Loading von Hintergrundbildern, Skripten, Stylesheets und Videos hinzu. Um es mit Hintergrundbildern, Skripten und Stylesheets zu verwenden, musst du <a href=\"https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/unveilhooks\">das Markup händisch anpassen</a>."
+
+#: src/Settings.php:187
+msgid "Enable lazy loading for iframes"
+msgstr "Lazy-Loading für iFrames aktivieren"
+
+#: src/Settings.php:167
+msgid "CSS classes to exclude"
+msgstr "CSS-Klassen, die ignoriert werden sollen"
+
+#: src/Plugin.php:172
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Author URI of the plugin
+msgid "https://florianbrinkmann.com/en/"
+msgstr "https://florianbrinkmann.com/"
+
+#. Author of the plugin
+msgid "Florian Brinkmann, MarcDK"
+msgstr "Florian Brinkmann, MarcDK"
+
+#. Plugin URI of the plugin
+msgid "https://florianbrinkmann.com/en/3350/responsive-images-and-lazy-loading-in-wordpress/"
+msgstr "https://florianbrinkmann.com/1122/responsive-images-und-lazy-loading-in-wordpress/"
+
+#: src/Settings.php:360
+msgid "Lazy Loader options"
+msgstr "Lazy-Loader-Optionen"
