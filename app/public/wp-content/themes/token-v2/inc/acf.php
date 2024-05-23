@@ -1535,11 +1535,10 @@ function register_all_acf_fields() {
 				),
 			),
 		);
-
 		acf_add_local_field_group(
 			array(
-				'key'      => 'scissors_lift_section_5_6',
-				'title'    => 'Section 5 & Section 6',
+				'key'      => 'scissors_lift_section_5',
+				'title'    => 'Section 5',
 				'fields'   => array(
 					array(
 						'key'   => 'field_tab_section_5',
@@ -1559,6 +1558,24 @@ function register_all_acf_fields() {
 						'name'  => 'content_section_5',
 						'type'  => 'wysiwyg',
 					),
+				),
+				'location' => array(
+					array(
+						array(
+							'param'    => 'page_template',
+							'operator' => '==',
+							'value'    => 'template-scissors-lift.php',
+						),
+					),
+				),
+			),
+		);
+
+		acf_add_local_field_group(
+			array(
+				'key'      => 'scissors_lift_section_6',
+				'title'    => 'Section 6',
+				'fields'   => array(
 					array(
 						'key'   => 'field_tab_section_6',
 						'label' => 'Section 6',
