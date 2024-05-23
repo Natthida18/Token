@@ -1541,12 +1541,6 @@ function register_all_acf_fields() {
 				'title'    => 'Section 5',
 				'fields'   => array(
 					array(
-						'key'   => 'field_tab_section_5',
-						'label' => 'Section 5',
-						'name'  => 'tab_content_5',
-						'type'  => 'tab',
-					),
-					array(
 						'key'   => 'field_headline_section_5',
 						'label' => 'Headline',
 						'name'  => 'headline_section_5',
@@ -1576,12 +1570,6 @@ function register_all_acf_fields() {
 				'key'      => 'scissors_lift_section_6',
 				'title'    => 'Section 6',
 				'fields'   => array(
-					array(
-						'key'   => 'field_tab_section_6',
-						'label' => 'Section 6',
-						'name'  => 'tab_content_6',
-						'type'  => 'tab',
-					),
 					array(
 						'key'   => 'field_headline_section_6',
 						'label' => 'Headline',
