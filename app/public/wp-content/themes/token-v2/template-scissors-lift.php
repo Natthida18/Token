@@ -14,9 +14,9 @@ get_header(); ?>
 		<div class="section">
 			<div class="pagetitle">
 				<h1>
-					<?php the_field( 'page_title_th' ); ?>
+					<?php the_field( 'machine_page_title_th' ); ?>
 					<span class="_sub">
-						<?php the_field( 'page_title_en' ); ?>
+						<?php the_field( 'machine_page_title_en' ); ?>
 					</span>
 				</h1>
 			</div>
@@ -25,22 +25,22 @@ get_header(); ?>
 	<div class="box-scissorslift">
 		<section class="_r1">
 			<div class="container">
-				<?php the_field( 'content1_section1' ); ?>
+				<?php the_field( 'machine_section1_content1' ); ?>
 				<div class="col-sm-6">
 					<div class="row">
 						<div class="col-lg-6">
 							<?php
-								$image1_content2 = get_field( 'image1_content2_section1' );
+								$section1_img1 = get_field( 'machine_section1_image1' );
 
 								echo wp_get_attachment_image(
-									$image1_content2,
+									$section1_img1,
 									'full',
 								);
 								?>
 						</div>
 						<div class="col-lg-6">
 							<p class="_i1">
-								<?php the_field( 'content2_section1' ); ?>
+								<?php the_field( 'machine_section1_content2' ); ?>
 							</p>
 						</div>
 					</div>
@@ -48,10 +48,10 @@ get_header(); ?>
 						<div class="row">
 							<div class="col-xs-3 col">
 								<?php
-								$image1_content3 = get_field( 'image1_content3_section1' );
+								$section1_img3 = get_field( 'machine_section1_image3' );
 
 								echo wp_get_attachment_image(
-									$image1_content3,
+									$section1_img3,
 									'full',
 									false,
 									array(
@@ -62,10 +62,10 @@ get_header(); ?>
 							</div>
 							<div class="col-xs-3 col">
 							<?php
-								$image2_content3 = get_field( 'image2_content3_section1' );
+								$section1_img4 = get_field( 'machine_section1_image4' );
 
 								echo wp_get_attachment_image(
-									$image2_content3,
+									$section1_img4,
 									'full',
 									false,
 									array(
@@ -76,10 +76,10 @@ get_header(); ?>
 							</div>
 							<div class="col-xs-3 col">
 								<?php
-								$image3_content3 = get_field( 'image3_content3_section1' );
+								$section1_img5 = get_field( 'machine_section1_image5' );
 
 								echo wp_get_attachment_image(
-									$image3_content3,
+									$section1_img5,
 									'full',
 									false,
 									array(
@@ -90,10 +90,10 @@ get_header(); ?>
 							</div>
 							<div class="col-xs-3 col">
 								<?php
-								$image4_content3 = get_field( 'image4_content3_section1' );
+								$section1_img6 = get_field( 'machine_section1_image6' );
 
 								echo wp_get_attachment_image(
-									$image4_content3,
+									$section1_img6,
 									'full',
 									false,
 									array(
@@ -107,10 +107,10 @@ get_header(); ?>
 				</div>
 				<div class="col-sm-6">
 				<?php
-					$image2_content2 = get_field( 'image2_content2_section1' );
+					$section1_img2 = get_field( 'machine_section1_image2' );
 
 					echo wp_get_attachment_image(
-						$image2_content2,
+						$section1_img2,
 						'full',
 						false,
 						array(
@@ -125,16 +125,16 @@ get_header(); ?>
 			<div class="_r2 container">
 				<div class="_inner">
 					<h2>
-						<?php the_field( 'headline_content1_section2' ); ?>
+						<?php the_field( 'machine_section2_headline' ); ?>
 					</h2>
 				</div>
 			</div>
 			<div class="_r3">
 				<div class="container">
 					<h3>
-						<?php the_field( 'title_content1_section2' ); ?>
+						<?php the_field( 'machine_section2_title' ); ?>
 					</h3>
-						<?php the_field( 'text1_content1_section2' ); ?>
+						<?php the_field( 'machine_section2_content1' ); ?>
 
 						<!-- <ul>
 							<li>SL2646・SL3246 สามารถดาวน์โหลดรายละเอียดสเปคได้ที่นี่
@@ -205,19 +205,19 @@ get_header(); ?>
 									</thead>
 									<tbody>
 									<?php
-									if ( have_rows( 'compare_table' ) ) {
-										while ( have_rows( 'compare_table' ) ) {
+									if ( have_rows( 'repeater_compare_table' ) ) {
+										while ( have_rows( 'repeater_compare_table' ) ) {
 											the_row();
 
-											$title_compare_table = get_sub_field( 'title_compare_table' );
+											$title_compare_table = get_sub_field( 'compare_table_title' );
 											?>
 										<tr>
 											<th class="col-sm-2 cell-fixed"><?php echo esc_html( $title_compare_table ); ?></th>
 											<?php
-											while ( have_rows( 'value_compare_table' ) ) {
+											while ( have_rows( 'compare_table_value_list' ) ) {
 												the_row();
 
-												$value_compare_table = get_sub_field( 'value_scissors_lift' );
+												$value_compare_table = get_sub_field( 'compare_table_value' );
 												?>
 											<td class="col-sm-1"><?php echo esc_html( $value_compare_table ); ?></td>
 											<?php } ?>
@@ -233,12 +233,34 @@ get_header(); ?>
 						<div class="row">
 							<div class="col-xl-6">
 								<div class="description">
-									<?php the_field( 'content_section2' ); ?>
+									<?php the_field( 'machine_section2_content3' ); ?>
 								</div>
-								<img class="img-responsive" src="<?php echo esc_url( wp_get_attachment_image_url( get_field( 'image1_section2' ), 'full' ) ); ?>" alt="ความสูงของขากรรไกร X-Lift" />
+								<?php
+								$section2_img1 = get_field( 'machine_section2_image1' );
+
+								echo wp_get_attachment_image(
+									$section2_img1,
+									'full',
+									false,
+									array(
+										'class' => 'img-responsive',
+									)
+								);
+								?>
 							</div>
-							<div class="col-xl-6"><?php the_field( 'content2_section2' ); ?>
-								<img class="img-responsive" src="<?php echo esc_url( wp_get_attachment_image_url( get_field( 'image2_section2' ), 'full' ) ); ?>" alt="อันตรายจากการล้มคว่ำ" width="100%" />
+							<div class="col-xl-6"><?php the_field( 'machine_section2_content4' ); ?>
+								<?php
+									$section2_img2 = get_field( 'machine_section2_image2' );
+
+									echo wp_get_attachment_image(
+										$section2_img2,
+										'full',
+										false,
+										array(
+											'class' => 'img-responsive',
+										)
+									);
+									?>
 								<table class="table spec_table" style="max-width: 100%;">
 									<thead>
 										<tr>
@@ -266,19 +288,19 @@ get_header(); ?>
 									</thead>
 									<tbody>
 									<?php
-									if ( have_rows( 'stretch_detail' ) ) {
-										while ( have_rows( 'stretch_detail' ) ) {
+									if ( have_rows( 'repeater_stretch_detail' ) ) {
+										while ( have_rows( 'repeater_stretch_detail' ) ) {
 											the_row();
 
-											$title_stretch = get_sub_field( 'title_stretch_detail' );
+											$title_stretch = get_sub_field( 'stretch_detail_title' );
 											?>
 										<tr>
 											<th class="th-1 cell-fixed"><?php echo esc_html( $title_stretch ); ?></th>
 											<?php
-											while ( have_rows( 'value_stretch_detail' ) ) {
+											while ( have_rows( 'stretch_detail_value_list' ) ) {
 												the_row();
 
-												$value_stretch = get_sub_field( 'value_stretch_detail' );
+												$value_stretch = get_sub_field( 'stretch_detail_value' );
 												?>
 											<td class="td-2"><?php echo esc_html( $value_stretch ); ?></td>
 											<?php } ?>
@@ -294,7 +316,7 @@ get_header(); ?>
 					<div style="margin-top: 20px;"></div>
 					<div class="row">
 						<div class="col-12">
-							<?php the_field( 'shortcode_section2' ); ?>
+							<?php echo do_shortcode( '[product_list key="scissorslift"]' ); ?>
 						</div>
 					</div>
 					<div class="block-column">
@@ -302,45 +324,41 @@ get_header(); ?>
 							<div class="block-caution">
 								<div class="image-caution">
 								<?php
-									$image1_content5 = get_field( 'image1_content5_section2' );
+									$section2_img3 = get_field( 'machine_section2_image3' );
 
 									echo wp_get_attachment_image(
-										$image1_content5,
+										$section2_img3,
 										'full',
 									);
 									?>
 								</div>
 								<div class="content-caution">
-									<?php the_field( 'text1_content5_section2' ); ?>
+									<?php the_field( 'machine_section2_content5' ); ?>
 								</div>
 							</div>
 							<div class="cmn_btn_tips">
-								<a href="<?php the_field( 'link_content5_section2' ); ?>">
-									<?php the_field( 'text_content5_section2' ); ?>
+								<a href="<?php the_field( 'tips_link' ); ?>">
+									<?php the_field( 'tips_title' ); ?>
 								</a>
 							</div>
 						</div>
 						<div class="box-dic">
 							<div class="cmn_box_dict">
 								<div class="_header">
-									<?php
-									$text2_content5 = get_field( 'text2_content5_section2' );
-									echo esc_html( $text2_content5 );
-									?>
+									<?php the_field( 'machine_section2_dictionary' ); ?>
 								</div>
 								<div class="_content">
 								<?php
-								$dictionarys = get_field( 'words_content5_section2' );
-								if ( $dictionarys ) {
-									while ( have_rows( 'words_content5_section2' ) ) {
+								if ( have_rows( 'repeater_dictionary' ) ) {
+									while ( have_rows( 'repeater_dictionary' ) ) {
 										the_row();
 
-										$link_word_content5 = get_sub_field( 'link_word_content5' );
-										$text_word_content5 = get_sub_field( 'text_word_content5' );
+										$dictionary_link = get_sub_field( 'repeater_dictionary_link' );
+										$dictionary_word = get_sub_field( 'repeater_dictionary_word' );
 										?>
 										<span class="_word">
-											<a href="<?php echo esc_url( $link_word_content5 ); ?>">
-												<?php echo esc_html( $text_word_content5 ); ?>
+											<a href="<?php echo esc_url( $dictionary_link ); ?>">
+												<?php echo esc_html( $dictionary_word ); ?>
 											</a>
 										</span>
 										<?php
@@ -355,12 +373,12 @@ get_header(); ?>
 					<div class="row" style="margin-top: 20px;">
 						<div class="col-sm-12">
 							<div class="box-recentworks" style="margin-bottom: 20px;">
-								<a href="<?php the_field( 'link_content6_section1' ); ?>">
+								<a href="<?php the_field( 'machine_section2_recentwork_link' ); ?>">
 								<?php
-									$image1_content6 = get_field( 'image1_content6_section1' );
+									$recentwork_img = get_field( 'machine_section2_recentwork_image' );
 
 									echo wp_get_attachment_image(
-										$image1_content6,
+										$recentwork_img,
 										'full',
 										false,
 										array(
@@ -381,7 +399,7 @@ get_header(); ?>
 			<div class="_r2 container">
 				<div class="_inner">
 					<h2>
-						<?php the_field( 'headline_section3' ); ?>
+						<?php the_field( 'machine_section3_headline' ); ?>
 					</h2>
 				</div>
 			</div>
@@ -389,14 +407,14 @@ get_header(); ?>
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6">
-							<h4><?php the_field( 'content1_section3' ); ?></h4>
+							<h4><?php the_field( 'machine_section3_title1' ); ?></h4>
 							<div class="row">
 								<div class="col-xs-6 col">
 								<?php
-									$image1_sec3 = get_field( 'image1_section3' );
+									$section3_img1 = get_field( 'machine_section3_image1' );
 
 									echo wp_get_attachment_image(
-										$image1_sec3,
+										$section3_img1,
 										'full',
 										false,
 										array(
@@ -408,10 +426,10 @@ get_header(); ?>
 								</div>
 								<div class="col-xs-6 col">
 								<?php
-									$image2_sec3 = get_field( 'image2_section3' );
+									$section3_img2 = get_field( 'machine_section3_image2' );
 
 									echo wp_get_attachment_image(
-										$image2_sec3,
+										$section3_img2,
 										'full',
 										false,
 										array(
@@ -422,20 +440,20 @@ get_header(); ?>
 									?>
 								</div>
 							</div>
-							<?php the_field( 'sub_content1_section3' ); ?>
+							<?php the_field( 'machine_section3_content1' ); ?>
 
 						</div>
 						<div class="col-sm-6">
 							<h4>
-								<?php the_field( 'content2_section3' ); ?>
+								<?php the_field( 'machine_section3_title2' ); ?>
 							</h4>
 							<div class="row">
 								<div class="col-xs-12 col">
 								<?php
-									$image3_sec3 = get_field( 'image3_section3' );
+									$section3_img3 = get_field( 'machine_section3_image3' );
 
 									echo wp_get_attachment_image(
-										$image3_sec3,
+										$section3_img3,
 										'full',
 										false,
 										array(
@@ -445,10 +463,10 @@ get_header(); ?>
 									?>
 								</div>
 							</div>
-							<?php the_field( 'sub_content2_section3' ); ?>
+							<?php the_field( 'machine_section3_content2' ); ?>
 							<div class="cmn_btn_tips">
-								<a href="<?php the_field( 'link_content2_section3' ); ?>">
-									<?php the_field( 'text_content2_section3' ); ?>
+								<a href="<?php the_field( 'machine_section3_tips_link' ); ?>">
+									<?php the_field( 'machine_section3_tips_title' ); ?>
 								</a>
 							</div>
 						</div>
@@ -456,21 +474,22 @@ get_header(); ?>
 				</div>
 			</div>
 		</section>
+
 		<section class="container page-aerial">
 			<h2 class="token-sectiontitle">
-				<?php the_field( 'headline' ); ?>
+				<?php the_field( 'machine_section4_headline' ); ?>
 			</h2>
 			<?php
-			if ( have_rows( 'usage_scissors_lift' ) ) {
+			if ( have_rows( 'repeater_machine_usage_detail' ) ) {
 				?>
 				<ul id="usage-thumbnail" class="box-thumbnail row">
 				<?php
-				while ( have_rows( 'usage_scissors_lift' ) ) {
+				while ( have_rows( 'repeater_machine_usage_detail' ) ) {
 					the_row();
 
-					$usage_img     = get_sub_field( 'usage_scissors_lift_image' );
-					$usage_title   = get_sub_field( 'usage_scissors_lift_title' );
-					$usage_content = get_sub_field( 'usage_scissors_lift_content' );
+					$usage_img     = get_sub_field( 'machine_usage_detail_image' );
+					$usage_title   = get_sub_field( 'machine_usage_detail_title' );
+					$usage_content = get_sub_field( 'machine_usage_detail_content' );
 					?>
 					<li class="col-xs-6 col-sm-4 col-md-3 box-img3p">
 					<?php
@@ -499,22 +518,22 @@ get_header(); ?>
 		
 		<section class="container page-aerial">
 			<h2>
-				<?php the_field( 'headline_section_5' ); ?>
+				<?php the_field( 'machine_section5_headline' ); ?>
 			</h2>
 			<div style="margin-top: 20px;">
-				<?php the_field( 'content_section_5' ); ?>
+				<?php the_field( 'machine_section5_content' ); ?>
 			</div>
 		</section>
 		
 		<section class="container page-aerial">
 			<h2>
-				<?php the_field( 'headline_section_6' ); ?>
+				<?php the_field( 'machine_section6_headline' ); ?>
 			</h2>
 			<div style="aspect-ratio: 16 / 9;">
-				<?php the_field( 'video_section_6' ); ?>
+				<?php the_field( 'machine_section6_video' ); ?>
 			</div>
 			<div>
-				<?php the_field( 'content_section_6' ); ?>
+				<?php the_field( 'machine_section6_video_desc' ); ?>
 			</div>
 		</section>
 	</div>
