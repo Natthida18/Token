@@ -1612,3 +1612,31 @@ Stack trace:
 [23-May-2024 09:43:59 UTC] PHP Warning:  Undefined variable $image3_content6 in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/template-scissors-lift.php on line 447
 [23-May-2024 09:45:24 UTC] PHP Warning:  Undefined variable $image2_content6 in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/template-scissors-lift.php on line 423
 [23-May-2024 09:45:24 UTC] PHP Warning:  Undefined variable $image3_content6 in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/template-scissors-lift.php on line 447
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 192
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 16
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 24
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 27
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 27
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 92
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 97
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 98
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 99
+[18-Jun-2024 05:02:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 99
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/front-page.php on line 192
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 16
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 24
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 27
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 27
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 92
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 97
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 98
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 99
+[18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 99
