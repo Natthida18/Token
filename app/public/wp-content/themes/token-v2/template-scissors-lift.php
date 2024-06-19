@@ -11,15 +11,13 @@ get_header(); ?>
 
 <div class="page page-scissorslift1">
 	<div class="container">
-		<div class="section">
-			<div class="pagetitle">
-				<h1>
-					<?php the_field( 'machine_page_title_th' ); ?>
-					<span class="_sub">
-						<?php the_field( 'machine_page_title_en' ); ?>
-					</span>
-				</h1>
-			</div>
+		<div class="pagetitle">
+			<h1>
+				<?php the_field( 'machine_page_title_th' ); ?>
+				<span class="_sub">
+					<?php the_field( 'machine_page_title_en' ); ?>
+				</span>
+			</h1>
 		</div>
 	</div>
 	<div class="box-scissorslift _r1">
@@ -316,8 +314,7 @@ get_header(); ?>
 								</table>
 							</div>
 						</div>
-					<div style="margin-top: 20px;"></div>
-					<div class="row">
+					<div class="row" style="margin-top: 20px;">
 						<div class="col-12">
 							<?php echo do_shortcode( '[product_list key="scissorslift"]' ); ?>
 						</div>
