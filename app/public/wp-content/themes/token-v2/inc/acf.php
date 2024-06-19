@@ -1092,10 +1092,22 @@ function register_all_acf_fields() {
 						'type'  => 'tab',
 					),
 					array(
-						'key'   => 'field_machine_section1_content1',
-						'label' => 'Content 1',
-						'name'  => 'machine_section1_content1',
-						'type'  => 'wysiwyg',
+						'key'     => 'field_machine_section1_content1',
+						'label'   => 'Content 1',
+						'name'    => 'machine_section1_content1',
+						'type'    => 'wysiwyg',
+						'wrapper' => array(
+							'width' => '50%',
+						),
+					),
+					array(
+						'key'     => 'field_machine_section1_content2',
+						'label'   => 'Content 2',
+						'name'    => 'machine_section1_content2',
+						'type'    => 'wysiwyg',
+						'wrapper' => array(
+							'width' => '50%',
+						),
 					),
 					array(
 						'key'           => 'field_machine_section1_image1',
@@ -1116,12 +1128,6 @@ function register_all_acf_fields() {
 						'wrapper'       => array(
 							'width' => '50%',
 						),
-					),
-					array(
-						'key'   => 'field_machine_section1_content2',
-						'label' => 'Content 2',
-						'name'  => 'machine_section1_content2',
-						'type'  => 'wysiwyg',
 					),
 					array(
 						'key'           => 'field_machine_section1_image3',
@@ -1170,16 +1176,22 @@ function register_all_acf_fields() {
 						'type'  => 'tab',
 					),
 					array(
-						'key'   => 'field_machine_section2_headline',
-						'label' => 'Headline',
-						'name'  => 'machine_section2_headline',
-						'type'  => 'text',
+						'key'     => 'field_machine_section2_headline',
+						'label'   => 'Headline',
+						'name'    => 'machine_section2_headline',
+						'type'    => 'text',
+						'wrapper' => array(
+							'width' => '50%',
+						),
 					),
 					array(
-						'key'   => 'field_machine_section2_title',
-						'label' => 'Title',
-						'name'  => 'machine_section2_title',
-						'type'  => 'text',
+						'key'     => 'field_machine_section2_title',
+						'label'   => 'Title',
+						'name'    => 'machine_section2_title',
+						'type'    => 'text',
+						'wrapper' => array(
+							'width' => '50%',
+						),
 					),
 					array(
 						'key'   => 'field_machine_section2_content1',
@@ -1358,16 +1370,22 @@ function register_all_acf_fields() {
 						'type'  => 'text',
 					),
 					array(
-						'key'   => 'field_machine_section3_title1',
-						'label' => 'Title 1',
-						'name'  => 'machine_section3_title1',
-						'type'  => 'text',
+						'key'     => 'field_machine_section3_title1',
+						'label'   => 'Title 1',
+						'name'    => 'machine_section3_title1',
+						'type'    => 'text',
+						'wrapper' => array(
+							'width' => '50%',
+						),
 					),
 					array(
-						'key'   => 'field_machine_section3_title2',
-						'label' => 'Title 2',
-						'name'  => 'machine_section3_title2',
-						'type'  => 'text',
+						'key'     => 'field_machine_section3_title2',
+						'label'   => 'Title 2',
+						'name'    => 'machine_section3_title2',
+						'type'    => 'text',
+						'wrapper' => array(
+							'width' => '50%',
+						),
 					),
 					array(
 						'key'     => 'field_machine_section3_content1',

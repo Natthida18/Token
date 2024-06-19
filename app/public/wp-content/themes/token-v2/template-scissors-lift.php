@@ -22,21 +22,21 @@ get_header(); ?>
 			</div>
 		</div>
 	</div>
-	<div class="box-scissorslift">
-		<section class="_r1">
-			<div class="container">
+	<div class="box-scissorslift _r1">
+		<section class="container">
+			<div class="row">
 				<?php the_field( 'machine_section1_content1' ); ?>
 				<div class="col-sm-6">
 					<div class="row">
 						<div class="col-lg-6">
 							<?php
-								$section1_img1 = get_field( 'machine_section1_image1' );
+							$section1_img1 = get_field( 'machine_section1_image1' );
 
-								echo wp_get_attachment_image(
-									$section1_img1,
-									'full',
-								);
-								?>
+							echo wp_get_attachment_image(
+								$section1_img1,
+								'full',
+							);
+							?>
 						</div>
 						<div class="col-lg-6">
 							<p class="_i1">
@@ -106,7 +106,7 @@ get_header(); ?>
 					</div>
 				</div>
 				<div class="col-sm-6">
-				<?php
+					<?php
 					$section1_img2 = get_field( 'machine_section1_image2' );
 
 					echo wp_get_attachment_image(
@@ -192,42 +192,44 @@ get_header(); ?>
 
 						<div class="row">
 							<div class="col-sm-12">
-								<table class="table spec_table">
-									<thead>
-										<tr>
-											<th class="col-sm-2 cell-fixed"></th>
-											<th class="col-sm-1">X-Lift 6m</th>
-											<th class="col-sm-1">X-Lift 8m</th>
-											<th class="col-sm-1">X-Lift 10m</th>
-											<th class="col-sm-1">X-Lift 12m</th>
-											<th class="col-sm-1">X-Lift 14m</th>
-										</tr>
-									</thead>
-									<tbody>
-									<?php
-									if ( have_rows( 'repeater_compare_table' ) ) {
-										while ( have_rows( 'repeater_compare_table' ) ) {
-											the_row();
-
-											$title_compare_table = get_sub_field( 'compare_table_title' );
-											?>
-										<tr>
-											<th class="col-sm-2 cell-fixed"><?php echo esc_html( $title_compare_table ); ?></th>
-											<?php
-											while ( have_rows( 'compare_table_value_list' ) ) {
+								<div style="width: 100%; overflow-x: auto;">
+									<table class="table spec_table">
+										<thead>
+											<tr>
+												<th class="col-sm-2 cell-fixed"></th>
+												<th class="col-sm-1">X-Lift 6m</th>
+												<th class="col-sm-1">X-Lift 8m</th>
+												<th class="col-sm-1">X-Lift 10m</th>
+												<th class="col-sm-1">X-Lift 12m</th>
+												<th class="col-sm-1">X-Lift 14m</th>
+											</tr>
+										</thead>
+										<tbody>
+										<?php
+										if ( have_rows( 'repeater_compare_table' ) ) {
+											while ( have_rows( 'repeater_compare_table' ) ) {
 												the_row();
 
-												$value_compare_table = get_sub_field( 'compare_table_value' );
+												$title_compare_table = get_sub_field( 'compare_table_title' );
 												?>
-											<td class="col-sm-1"><?php echo esc_html( $value_compare_table ); ?></td>
-											<?php } ?>
-										</tr>
-											<?php
+											<tr>
+												<th class="col-sm-2 cell-fixed"><?php echo esc_html( $title_compare_table ); ?></th>
+												<?php
+												while ( have_rows( 'compare_table_value_list' ) ) {
+													the_row();
+
+													$value_compare_table = get_sub_field( 'compare_table_value' );
+													?>
+												<td class="col-sm-1"><?php echo esc_html( $value_compare_table ); ?></td>
+												<?php } ?>
+											</tr>
+												<?php
+											}
 										}
-									}
-									?>
-									</tbody>
-								</table>
+										?>
+										</tbody>
+									</table>
+								</div>
 							</div>
 						</div>
 						<div class="row">
@@ -258,6 +260,7 @@ get_header(); ?>
 										false,
 										array(
 											'class' => 'img-responsive',
+											'style' => 'width: 100%',
 										)
 									);
 									?>
