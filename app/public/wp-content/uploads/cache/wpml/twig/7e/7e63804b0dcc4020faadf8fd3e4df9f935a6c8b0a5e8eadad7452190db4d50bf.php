@@ -173,6 +173,6 @@ class __TwigTemplate_d46684ee7d905b6af0f91be69e1a401940e9fb3c00867f0793a41bce66b
 
     public function getSourceContext()
     {
-        return new Source("", "template.twig", "/Users/byaoik/Local Sites/token/app/public/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/template.twig");
+        return new Source("", "template.twig", "/Users/byaoik/Local Sites/token-v2/app/public/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/template.twig");
     }
 }

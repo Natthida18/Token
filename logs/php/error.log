@@ -1640,3 +1640,35 @@ Stack trace:
 [18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 98
 [18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 99
 [18-Jun-2024 05:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token-v2/app/public/wp-content/themes/token-v2/footer.php on line 99
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 192
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 16
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 24
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 27
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 27
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 92
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 97
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 98
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 99
+[19-Jun-2024 16:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 99
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 26
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 36
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/front-page.php on line 192
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 16
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 24
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 27
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 27
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 92
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 97
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 98
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 99
+[19-Jun-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/byaoik/Local Sites/token/app/public/wp-content/themes/token-v2/footer.php on line 99
+[19-Jun-2024 16:41:55 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Jun-2024 16:41:55 UTC] Cron reschedule event error for hook: rocket_preload_process_pending, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[19-Jun-2024 16:41:55 UTC] Cron reschedule event error for hook: blc_cron_check_links, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"10min","args":[],"interval":600}
+[19-Jun-2024 16:41:55 UTC] Cron reschedule event error for hook: rocket_purge_time_event, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"rocket_expired_cache_cron_interval","args":[],"interval":3600}

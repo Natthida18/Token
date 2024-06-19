@@ -99,6 +99,6 @@ class __TwigTemplate_a00a4f67d9ec0488e3fa8961afb04fa5951dd3c3b359b3ce000c20ed4fa
 
     public function getSourceContext()
     {
-        return new Source("", "flag.twig", "/Users/byaoik/Local Sites/token/app/public/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/flag.twig");
+        return new Source("", "flag.twig", "/Users/byaoik/Local Sites/token-v2/app/public/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/flag.twig");
     }
 }

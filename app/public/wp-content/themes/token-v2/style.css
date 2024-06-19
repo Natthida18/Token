@@ -1296,7 +1296,7 @@ html[lang=th] {
 .page-boomlift .box-boomlift p,
 .page-boomlift .box-scissorslift p,
 .page-boomlift .box-option p {
-	margin: 10px;
+	margin: 10px 0;
 }
 
 .page-boomlift .box-boomlift ._r1,
