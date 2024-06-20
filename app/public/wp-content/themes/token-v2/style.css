@@ -28,7 +28,10 @@ a {
 }
 
 a:hover {
-	color: #23527c;.product-table>.product-table-product-list>.product-item>.info>.title-box
+	color: #23527c;
+}
+	
+.product-table>.product-table-product-list>.product-item>.info>.title-box {
 	text-decoration: underline;
 }
 
@@ -41,7 +44,6 @@ img {
 	border: 0;
 	margin: 0;
 	max-width: 100%;
-	height: auto;
 }
 
 .clear {
@@ -1074,7 +1076,6 @@ html[lang=th] {
 
 .page .box-thumbnail li {
 	margin: 0;
-	padding: 10px;
 	min-height: 260px;
 }
 
@@ -1602,7 +1603,7 @@ a.anchor {
 .page-scissorslift1 .box-boomlift p,
 .page-scissorslift1 .box-scissorslift p,
 .page-scissorslift1 .box-option p {
-	margin: 10px;
+	margin: 10px 0;
 }
 
 .page-boomlift1 .box-boomlift ._r1,
@@ -3732,5 +3733,102 @@ ul.sub_menu {
 @media (min-width: 1200px) {
 	.product-table {
 		grid-template-columns: 450px 1fr;
+	}
+}
+
+.page.container {
+	margin-top: 40px;
+}
+
+.contents {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 20px;
+	margin-top: 16px;
+}
+
+.content {
+	justify-self: center;
+}
+
+.sub-content {
+	display: flex;
+	gap: 10px;
+}
+
+.sub-content .col-xs-3 {
+	padding: 0;
+}
+
+.tab-headline {
+	background-color: #1D5199;
+    background: linear-gradient(235deg, transparent 26px, #1D5199 0) top right;
+    background-repeat: no-repeat;
+    padding: 8px 8px;
+    max-width: fit-content;
+    height: 36px;
+}
+
+.headline {
+	font-size: 1.8rem;
+    background: url(./assets/images/arrow-4.png) no-repeat left center;
+    padding-left: 28px;
+	padding-right: 28px;
+    color: #fff;
+    margin: 0;
+	font-weight: 600;
+}
+
+.headline-primary {
+	color: #1e4a88;
+}
+
+.page .box-thumbnail {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
+	margin-top: 20px;
+}
+
+.page .box-thumbnail li img {
+	width: 100%;
+}
+
+.section-bg {
+	background-image: url(https://www.token-thailand.com/wp-content/themes/token-v2/assets/images/boomlift_section-bg.png);
+    background-color: #eee;
+    background-position: center;
+    padding: 15px 0;
+}
+
+.block-contents {
+	display: grid;
+	gap: 16px;
+}
+
+.img-responsive {
+	margin: 12px 0px;
+}
+
+.icon {
+	height: auto;
+}
+
+.video-iframe {
+	aspect-ratio: 16 / 9;
+	margin-top: 16px;
+}
+
+.content-image {
+	width: 100%;
+}
+
+@media (min-width: 780px) {
+	.contents {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	.page .box-thumbnail {
+		grid-template-columns: repeat(4, 1fr);
 	}
 }
